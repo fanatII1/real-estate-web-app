@@ -9,9 +9,9 @@ A web app focusing on displaying houses for sale on a certain local area. Allows
 * MongoDB (database)
 
 ## How to start the app :
-1). Clone this repo onto your local computer with git clone
-2). Navigate to the backend folder and run 'npm start' on your terminal to start the server
-3). For the frontend, navigate to the frontend folder and  content-search-app, then run 'npm start'. 
+* Clone this repo onto your local computer with git clone
+* Navigate to the backend folder and run 'npm start' on your terminal to start the server
+* For the frontend, when you enter start the server, the public folder(built for production) will server you the necessary code that will allow you to view the ui of the project
 *The project should start running on http://localhost:3000
 
 # Navigation : 
