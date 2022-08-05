@@ -1,5 +1,6 @@
 # Local-Real-Estate-Web-App
 A web app focusing on displaying houses for sale on a certain local area. Allows end users(customers) to view and potentially purchase houses that a particular agency/person has put up on the market.
+* Live Project: [Project](https://local-real-estate-app.herokuapp.com/)
 
 ## Technologies used :
 * ReactJS(frontend)
